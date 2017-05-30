@@ -20,7 +20,7 @@ Para este teste você pode usar qualquer framework de sua escolha.
 Os CPFs a serem testados estão no arquivo `blacklist.txt`.
 
 
-Como entregar teste
+Como entregar este teste
 -----
 
 Você deve forkar este projeto em sua própria conta do GitHub e fazer o commit em seu próprio repositório.
